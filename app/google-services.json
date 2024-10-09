@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "582338830019",
+    "project_id": "pauchat-8fb9e",
+    "storage_bucket": "pauchat-8fb9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582338830019:android:9480a4afc9c37601358c76",
+        "android_client_info": {
+          "package_name": "com.example.pauchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQNyIFsmaAemdOezWmXNX2R7lQBecMoq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
